@@ -25,7 +25,7 @@ I'm a passionate **Cloud Engineer & Developer** with expertise in architecting, 
 ## 🌱 Currently Learning
 
 - AWS architectures & serverless  
-- AI   
+- AI/ML
 
 ---
 
